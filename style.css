@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+.section-1{
+    background-image: url(https://images.unsplash.com/photo-1689656966481-043a970b7c76?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+    background-position: center;
+    background-size: cover;
+    padding: 100px;
+    color: #fff;
+    text-align: center;
+}
+    
+.content{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.h1-heading{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-shadow: 2 2 4px black;
+    font-size: 48px;
+}
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+
+}
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #FF6600;
+    border: none;
+    text-transform:uppercase;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+   
+}
+
+.button:hover{
+    background-color: #ff4500;
+}
